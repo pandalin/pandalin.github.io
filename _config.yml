@@ -1,14 +1,14 @@
 # Site settings
 title: pandalin
-header-img: "img/autumn2.jpg"
-tagline: "pandalin"  
-description: "人所缺乏的不是才干而是志向，不是成功的能力而是勤劳的意志。"  
+header-img: ""
+tagline: "pandalin"
+description: "人所缺乏的不是才干而是志向，不是成功的能力而是勤劳的意志。"
 baseurl: ""
-url: ""  
+url: ""
 #url: "http://localhost:4000"
 
 # About/contact
-owner: 
+owner:
   name: "pandalin"
   email: ascendlin@sina.com
   bio: "君子志于择天下"
@@ -17,19 +17,19 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/pandalin.png
 favicon: img/favicon.ico
 
-twitter_username: ascendlin  
-github_username: pandalin  
-facebook_username: pandalin 
+twitter_username: ascendlin
+github_username: pandalin
+facebook_username: pandalin
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
 
-gems: 
+gems:
 - jekyll-gallery-generator
 - jekyll-paginate
 permalink: none
@@ -45,7 +45,7 @@ timezone: Asia/Shanghai
 # Defaults for posts
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -54,7 +54,7 @@ defaults:
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
-# Comments 
+# Comments
 comments :
   provider : duoshuo
   duoshuo :
