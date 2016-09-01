@@ -1,9 +1,9 @@
 ---
 layout: post
-title: first blog
+title: 欢迎进入pandalin's Blog
 categories: [blog ]
 tags: [book, list, ]
-description: first blog。
+description: pandalin's Blog。
 ---
-# first
-pandalin's first blog
+# 欢迎语
+正式搭建上了github pages上的Blog啦^_^
