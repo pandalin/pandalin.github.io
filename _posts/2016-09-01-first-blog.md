@@ -6,7 +6,7 @@ tags: [book, list, ]
 description: pandalin's Blog。
 ---
 # 欢迎语
-正式搭建上了github pages上的Blog啦^_^
+大家好，我的博客正式入住github啦^_^
 
 
-![博客入住github](images/2016/09/1edf83fe30c44a73433df0f03d1080cc.jpg)
+![博客入住github](images/2016/09/1edf83fe30c44a73433df0f03d1080cc.jpg
