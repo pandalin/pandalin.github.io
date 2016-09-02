@@ -6,7 +6,6 @@ tags: [idea, ]
 description: IDEA热部署
 ---
 
-![博客入住github]({{site.url}}/images/2016/09/1edf83fe30c44a73433df0f03d1080cc.jpg)
 # IDEA安装
   本文使用IDEA最新版本2016.2.3 [IDEA][d856fe09] ，直接安装就好啦，社区版是免费的，旗舰版是收费的，我们要开发web项目，当然得下载旗舰版了，不要担心收费问题。再次提供一个神奇的网址（给屌丝用，土豪请随意）：
 [IDEA破解][f08ac42e]，获取注册码再IDEA安装界面输入激活码就能正常使用了。
@@ -17,7 +16,7 @@ description: IDEA热部署
 
 >1 打开File->Setting菜单，在plugin中搜索jrebel,在线安装好idea的jrebel插件
 
- ![idea jrebel]({{site.url}}/images/2016/09/_idea_jrebel_setting.png)
+ ![idea jrebel]({{site.url}}/images/2016/09/_jrebel_setting.jpg)
  安装后重启IDEA
 
 >2 正常安装后是处于未激活状态，此时的jrebel是不能使用的
