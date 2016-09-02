@@ -8,7 +8,7 @@ description: IDEA热部署
 
 # IDEA安装
   本文使用IDEA最新版本2016.2.3 [IDEA][d856fe09] ，直接安装就好啦，社区版是免费的，旗舰版是收费的，我们要开发web项目，当然得下载旗舰版了，不要担心收费问题。再次提供一个神奇的网址（给屌丝用，土豪请随意）：
-[IDEA破解][f08ac42e]，获取注册码再IDEA安装界面输入激活码就能正常使用了。
+[IDEA破解][f08ac42e]，获取注册码再IDEA安装界面输入激活码就能正常使用了^_^。
 
 # Jrebel安装
 
@@ -16,7 +16,7 @@ description: IDEA热部署
 
 >1 打开File->Setting菜单，在plugin中搜索jrebel,在线安装好idea的jrebel插件
 
- ![ideaJrebel]({{site.url}}/images/2016/09/_jrebel_setting.jpg)
+ ![插件安装]({{site.url}}/images/2016/09/_jrebel_setting.jpg)
 
  安装后重启IDEA
 
