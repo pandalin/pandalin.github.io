@@ -31,7 +31,9 @@ description: IDEA热部署
 
 ***
 在maven pom中加入如下配置即可
+
 ```xml
+
 <plugin>
     <groupId>org.zeroturnaround</groupId>
     <artifactId>jrebel-maven-plugin</artifactId>
