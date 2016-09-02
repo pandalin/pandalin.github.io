@@ -29,8 +29,9 @@ description: IDEA热部署
 接下来就是见证奇迹的时刻了，如果你的项目使用MAVEN进行管理，请看这里的详细配置
 [idea中jrebel详细配置][46f5be97]，虽然是全英文，但步骤很清晰。
 
-、、、xml
-
+***
+在maven pom中加入如下配置即可
+```xml
 <plugin>
     <groupId>org.zeroturnaround</groupId>
     <artifactId>jrebel-maven-plugin</artifactId>
@@ -49,7 +50,7 @@ description: IDEA热部署
     </configuration>
 </plugin>
 
-、、、
+```
 
   [d856fe09]: https://www.jetbrains.com/idea/ "IDEA"
   [f08ac42e]: http://idea.qinxi1992.cn/ "IDEA破解"
