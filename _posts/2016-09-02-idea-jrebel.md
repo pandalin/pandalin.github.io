@@ -17,6 +17,7 @@ description: IDEA热部署
 >1 打开File->Setting菜单，在plugin中搜索jrebel,在线安装好idea的jrebel插件
 
  ![idea jrebel]({{site.url}}/images/2016/09/_idea_jrebel_setting.png)
+![ jrebel_setting](images/2016/09/_idea_jrebel_setting.png)
  安装后重启IDEA
 
 >2 正常安装后是处于未激活状态，此时的jrebel是不能使用的
