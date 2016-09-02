@@ -52,6 +52,7 @@ description: IDEA热部署
 
 ```
 
+ps:markdown用得不熟，将就看看吧~
   [d856fe09]: https://www.jetbrains.com/idea/ "IDEA"
   [f08ac42e]: http://idea.qinxi1992.cn/ "IDEA破解"
   [c8e1be28]: https://my.jrebel.com "myjrebel"
