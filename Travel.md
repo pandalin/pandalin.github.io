@@ -20,3 +20,5 @@ header-img: "img/plane2.jpg"
   * [美团好文][685aa250]
 
   [685aa250]: http://tech.meituan.com/ "美团好文"
+
+  * [消息系统设计](http://www.jianshu.com/p/f4d7827821f1#)
