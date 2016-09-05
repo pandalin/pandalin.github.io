@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "每日一文"
+title: "Travel"
 description: "每日一文"
 header-img: "img/plane2.jpg"
 ---
