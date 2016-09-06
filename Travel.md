@@ -25,3 +25,4 @@ header-img: "img/plane2.jpg"
 # 2016-09-06
   * [面试干货](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650236878&idx=1&sn=cc530c1d7be00377fe11c095804a123f#rd)
   * [mysql线上环境实战](http://www.cnblogs.com/suoning/p/5742885.html)
+  * [程序员到底有多累，有多辛苦？](http://www.techug.com/how-tired-in-the-end)
