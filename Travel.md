@@ -24,3 +24,4 @@ header-img: "img/plane2.jpg"
   * [消息系统设计](http://www.jianshu.com/p/f4d7827821f1#)
 # 2016-09-06
   * [面试干货](http://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650236878&idx=1&sn=cc530c1d7be00377fe11c095804a123f#rd)
+  * [MySQL](http://www.cnblogs.com/suoning/p/5742885.html)
