@@ -24,7 +24,8 @@ description: Neo4j 整合springmvc项目
    
    [问题](http://stackoverflow.com/questions/30254176/issues-while-retrieving-existing-nodes-using-spring-data-neo4j/30633870#30633870)
    
- ##  配置
+##  配置
+
     
    ![configuration]({{site.url}}/images/2016/12/12/configuration.jpg)
    
