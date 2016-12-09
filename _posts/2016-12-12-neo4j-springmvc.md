@@ -29,7 +29,7 @@ description: Neo4j 整合springmvc项目
     
    ![configuration]({{site.url}}/images/2016/12/12/configuration.jpg)
    
-  > 此处造成springbean 循环初始化的问题是因为整合到现有项目中，模块耦合太严重，通过如下配置即可解决
+  > 此处造成springbean 循环初始化的问题，通过如下配置即可解决
   
   ![error]({{site.url}}/images/2016/12/12/error.jpg) 
   ![error1]({{site.url}}/images/2016/12/12/error1.jpg)
