@@ -18,13 +18,13 @@ description: Neo4j 整合springmvc项目
     
    > 以maven为例,**spring版本必须选择4.2及以上，低版本会出各种问题**
    
-   ![pom]({{site.url}}/images/2016/12/12/om.jpg) 
+   ![pom]({{site.url}}/images/2016/12/12/pom.jpg) 
    
    > SDN3.X版本 ，选择3.x版本时，出现
    
    [问题](http://stackoverflow.com/questions/30254176/issues-while-retrieving-existing-nodes-using-spring-data-neo4j/30633870#30633870)
    
- ## 配置
+ ##  配置
     
    ![configuration]({{site.url}}/images/2016/12/12/configuration.jpg)
    
