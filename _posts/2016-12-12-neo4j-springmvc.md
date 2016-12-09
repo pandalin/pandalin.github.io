@@ -8,7 +8,7 @@ description: Neo4j 整合springmvc项目
 
 ##  官网配置
     
- >   鉴于官网java相关的例子都是整合springboot，本文主要讲解neo4j整合springmvc项目
+ >   鉴于官网java相关的例子都是整合springboot
    
    [官网配置地址](https://neo4j.com/developer/java/)，里面提供了各种例子使用。
    
